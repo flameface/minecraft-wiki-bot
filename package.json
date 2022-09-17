@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "ascii-table": "^0.0.9",
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.3.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.10",
+    "minecraft-data": "^3.12.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7",
+    "npm": "^8.19.1"
+  },
+  "name": "minecraft-wiki-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "minecraft-wiki-bot"
+  ],
+  "author": "FlameFace#0570",
+  "license": "ISC",
+  "description": "Bot made by FlameFace"
+}
